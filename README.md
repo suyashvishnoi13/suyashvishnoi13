@@ -1,7 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Suyash%20Vishnoi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20%7C%20AI%2FML&descAlignY=60&descSize=18" width="100%" />
+<h1>Hi 👋, I'm Suyash Vishnoi</h1>
+
+<h3>Software Development Engineer &nbsp;|&nbsp; Backend &amp; Full Stack &nbsp;|&nbsp; AI/ML</h3>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Full+Stack+%2B+Generative+AI+applications+%F0%9F%A4%96;1000%2B+DSA+problems+solved+%7C+CodeChef+1700+%F0%9F%8F%86;Published+researcher+%40+IC3+2026+%F0%9F%93%84;Open+to+SDE+%2F+Full+Stack+opportunities+%F0%9F%92%BC" alt="Typing SVG" />
@@ -153,14 +155,6 @@ Co-authored a hybrid framework combining **syntactic analysis, semantic embeddin
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/suyashvishnoi13/poster_generation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suyashvishnoi13&repo=poster_generation&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/suyashvishnoi13/metro-go-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suyashvishnoi13&repo=metro-go-project&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/suyashvishnoi13/code-clone-detector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suyashvishnoi13&repo=code-clone-detector&theme=tokyonight&hide_border=true" /></a>
-
-</div>
-
 ---
 
 ## 🏆 Achievements
@@ -199,7 +193,5 @@ I'm actively looking for **SDE, Backend and Full Stack** opportunities. If you'r
 
 <a href="mailto:suyash.vishnoi13@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/suyash-vishnoi-a98179343/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
