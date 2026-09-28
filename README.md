@@ -170,16 +170,17 @@ Co-authored a hybrid framework combining **syntactic analysis, semantic embeddin
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=suyashvishnoi13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashvishnoi13&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=suyashvishnoi13&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://streak-stats.demolab.com/?user=suyashvishnoi13&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suyashvishnoi13&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://img.shields.io/github/followers/suyashvishnoi13?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
+<img src="https://img.shields.io/github/last-commit/suyashvishnoi13/poster_generation?label=Desi-Scribe%20last%20commit&style=for-the-badge&color=2ea44f" />
+<img src="https://img.shields.io/github/last-commit/suyashvishnoi13/metro-go-project?label=MetroGo%20last%20commit&style=for-the-badge&color=2ea44f" />
 
 </div>
 
