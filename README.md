@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science undergraduate at Jaypee Institute of Information Technology, Noida**, with a CGPA of **8.3/10**. I enjoy building reliable backend systems, full-stack applications, and practical AI-powered products.
+I'm a **Computer Science undergraduate at Jaypee Institute of Information Technology, Noida**, with a CGPA of **8.3/10**. I enjoy building backend systems, full-stack applications, and AI-powered products that solve practical problems.
 
 <table>
 <tr>
@@ -40,8 +40,8 @@ I'm a **Computer Science undergraduate at Jaypee Institute of Information Techno
 
 - Python backend applications and REST APIs
 - Full-stack web applications
-- AI content-generation and RAG-based systems
-- Graph-based solutions and algorithmic projects
+- Generative AI and RAG-based applications
+- Computer vision and machine learning systems
 
 ### 🌱 Currently Exploring
 
@@ -69,9 +69,9 @@ I'm a **Computer Science undergraduate at Jaypee Institute of Information Techno
 </tr>
 </table>
 
-💬 **Ask me about:** Python, Flask, REST APIs, SQL, DSA, OOP, DBMS, Machine Learning, NLP, and RAG.
+💬 **Ask me about:** Python, Flask, REST APIs, SQL, DSA, OOP, DBMS, Machine Learning, NLP, RAG, and Computer Vision.
 
-🤝 **Interested in:** Software engineering opportunities, backend development, AI/ML projects, and open-source collaboration.
+🤝 **Interested in:** Software engineering, backend development, AI/ML projects, and open-source collaboration.
 
 ---
 
@@ -117,6 +117,9 @@ I'm a **Computer Science undergraduate at Jaypee Institute of Information Techno
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
 <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge" alt="NLP"/>
 <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" alt="Transformers"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/EasyOCR-0D9488?style=for-the-badge" alt="EasyOCR"/>
 </p>
 
 ### 🔧 Tools & Core Computer Science
@@ -135,17 +138,16 @@ I'm a **Computer Science undergraduate at Jaypee Institute of Information Techno
 <tr>
 <td width="50%" valign="top">
 
-<h3>🚀 Desi-Scribe</h3>
+<h3>🚀 01. Poster Generator</h3>
 
-<strong>Full-Stack AI Content Generation Platform</strong>
+<strong>Generative AI Web App</strong>
 
-Built a Python and Flask backend for AI content generation, authentication, and persistent storage.
+A multimodal content-creation platform combining generative AI, retrieval-augmented generation, and vision-language capabilities.
 
-- Integrated a RAG pipeline using FAISS.
-- Implemented embedding caching to reduce response latency by **30%**.
-- Deployed the backend on AWS EC2.
+- Combines AI-powered content creation with contextual retrieval.
+- Uses vision-language capabilities and FLUX-based image generation.
 
-<strong>Tech:</strong> <code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>REST APIs</code> <code>FAISS</code> <code>RAG</code> <code>AWS EC2</code>
+<strong>Tech:</strong> <code>Python</code> <code>RAG</code> <code>Vision LLMs</code> <code>FLUX</code>
 
 <br/>
 
@@ -155,17 +157,16 @@ Built a Python and Flask backend for AI content generation, authentication, and 
 </td>
 <td width="50%" valign="top">
 
-<h3>🚇 MetroGo</h3>
+<h3>🚇 02. MetroGo</h3>
 
-<strong>Metro Route Planner</strong>
+<strong>C++ Metro Route Planner</strong>
 
-A C++ application that models metro stations and route connectivity using graph data structures.
+A metro route-planning application that models stations and connectivity using graph data structures and shortest-path algorithms.
 
-- Implemented shortest-path algorithms for efficient route computation.
-- Organized station management and route calculation into modular components.
-- Focused on code readability and maintainability.
+- Represents metro networks through graph structures.
+- Calculates efficient journeys using shortest-path techniques.
 
-<strong>Tech:</strong> <code>C++</code> <code>Data Structures</code> <code>Graph Algorithms</code> <code>Shortest Path</code>
+<strong>Tech:</strong> <code>C++</code> <code>DSA</code> <code>Graph Algorithms</code> <code>Shortest Path</code>
 
 <br/>
 
@@ -176,16 +177,16 @@ A C++ application that models metro stations and route connectivity using graph 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔍 AI Code Intelligence Platform</h3>
+<h3>🔍 03. Code Clone Detection</h3>
 
-<strong>Semantic Code Similarity Detection</strong>
+<strong>Software Engineering & Code Intelligence</strong>
 
-A machine-learning project exploring semantic representations for identifying similar source code.
+A code-similarity detection system using transformer-based representations to identify potentially duplicated source code.
 
-- Explores code similarity beyond simple textual matching.
-- Uses CodeBERT and NLP-related techniques.
+- Uses CodeBERT-based representations for code similarity.
+- Applies NLP and machine learning techniques to code analysis.
 
-<strong>Tech:</strong> <code>Python</code> <code>CodeBERT</code> <code>NLP</code> <code>Machine Learning</code>
+<strong>Tech:</strong> <code>Python</code> <code>CodeBERT</code> <code>NLP</code> <code>ML</code>
 
 <br/>
 
@@ -195,32 +196,78 @@ A machine-learning project exploring semantic representations for identifying si
 </td>
 <td width="50%" valign="top">
 
-<h3>📄 Research: Hybrid Code Clone Detection</h3>
+<h3>🌐 04. Real-Time Speech Translator</h3>
 
-<strong>Published — IC3 2026</strong>
+<strong>Multilingual Translation Web App</strong>
 
-Co-authored research on a hybrid code-clone detection framework.
+A multilingual translation application using a Python backend and transformer-based language translation.
 
-- Combined syntactic analysis, semantic embeddings, and machine learning.
-- Reported **74.4% accuracy**.
+- Integrates language translation through mBART.
+- Uses a Flask backend and REST API architecture.
 
-<strong>Topics:</strong> <code>Machine Learning</code> <code>Semantic Embeddings</code> <code>Code Analysis</code>
+<strong>Tech:</strong> <code>Flask</code> <code>Python</code> <code>mBART</code> <code>REST API</code>
 
 <br/>
 
-<img src="https://img.shields.io/badge/IC3_2026-Published-blue?style=for-the-badge" alt="IC3 2026 publication"/>
+<a href="https://github.com/suyashvishnoi13/realtime-voice-translation"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 05. Image Forgery Detection</h3>
+
+<strong>Deep Learning & Computer Vision</strong>
+
+An image-analysis application that uses deep learning to identify potential digital image forgery.
+
+- Applies ResNet-based image analysis.
+- Uses PyTorch for model development and Streamlit for the application interface.
+
+<strong>Tech:</strong> <code>Python</code> <code>ResNet</code> <code>PyTorch</code> <code>Streamlit</code>
+
+<br/>
+
+<a href="https://github.com/suyashvishnoi13/image_detection"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚦 06. TrafficVision AI</h3>
+
+<strong>AI-Powered Traffic Violation Detection</strong>
+
+A computer-vision system designed to detect traffic violations and generate digital evidence.
+
+- Detects helmet violations and triple riding using YOLOv8.
+- Uses EasyOCR for vehicle registration number extraction.
+- Generates digital evidence and stores records in SQLite.
+- Provides an interactive Streamlit analytics dashboard.
+
+<strong>Tech:</strong> <code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>EasyOCR</code> <code>PyTorch</code> <code>Streamlit</code> <code>SQLite</code>
+
+<br/>
+
+<a href="https://github.com/suyashvishnoi13/Automated-Photo-Identification-and-Classification-for-Traffic-Violations-Using-Computer-Vision"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
 
 </td>
 </tr>
 </table>
 
-### 🔗 Explore More Projects
+---
 
-<div align="center">
+## 🔬 Research Publication
 
-<a href="https://github.com/suyashvishnoi13?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
+### Hybrid Code Clone Detection — IC3 2026
 
-</div>
+Co-authored research on a hybrid code-clone detection framework combining syntactic analysis, semantic embeddings, and machine learning.
+
+- Reported **74.4% accuracy** in the supplied project summary.
+
+**Topics:** `Machine Learning` · `Semantic Embeddings` · `Code Analysis`
+
+<img src="https://img.shields.io/badge/IC3_2026-Published-blue?style=for-the-badge" alt="IC3 2026 publication"/>
 
 ---
 
